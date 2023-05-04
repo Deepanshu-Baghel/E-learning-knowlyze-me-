@@ -4,7 +4,7 @@ import './About.css';
 function About() {
   return (
     <>
-    <center><h>About us</h></center>
+    <center className='beecho'><h1>About us</h1></center>
     <div className='people'>
 
 <div className="card-client">
