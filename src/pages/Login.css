@@ -1,10 +1,11 @@
 .login {
     max-width: 400px;
-    margin: 0 auto;
-    padding: 5rem;
+    margin: 110px auto;
+    padding: 60px;
     border: 5px solid #ddd;
     border-radius: 42px;
     background-color: #fff;
+
   }
   
   .login h1 {

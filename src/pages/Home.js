@@ -8,6 +8,7 @@ function Home() {
       <p>Learn at your own pace with our online courses.</p>
       <button>View Courses</button>
     </div>
+    
   );
 }
 
