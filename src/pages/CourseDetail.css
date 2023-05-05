@@ -1,18 +1,18 @@
-/* .card-container{
+/* .cardd-container{
 
   display: flex;
   justify-content: space-evenly;
   align-items: center;
 } */
 
-.card-container1{
+.cardd-container1{
   display: flex;
   justify-content: space-evenly;
   align-items: center;
   margin-top: 110px;
 }
 
-.card-container2{
+.cardd-container2{
   display: flex;
   justify-content: space-evenly;
   align-items: center;
@@ -20,7 +20,7 @@
   margin-bottom: 130px;
 }
 
-.card {
+.cardd {
   margin-right:10px; 
   width: calc(25% - 20px);
   box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);
@@ -30,7 +30,7 @@
   padding-right: 10px;
 }
 
-.card-image {
+.cardd-image {
   height: 180px;
   background-color: #ccc;
   border-top-left-radius: 8px;
