@@ -41,10 +41,9 @@
     color: #fff;
     cursor: pointer;
     transition: background-color 0.3s ease;
-    margin-right: auto;
+    margin-right: 40px;
   }
-  
-  button[type="submit2"] {
+  button[type="submit_login"] {
     padding: 0.8rem 1.5rem;
     font-size: 1.1rem;
     border-radius: 4px;
@@ -53,15 +52,16 @@
     color: #fff;
     cursor: pointer;
     transition: background-color 0.3s ease;
-    margin-left: auto;
+    margin-left: 40px;
   }
+
   
   button[type="submit"]:hover {
     background-color: #0062cc;
     
   }
-  .doit{
+  .doit {
     display: flex;
     justify-content: space-between;
-    align-items: end;
+    
   }

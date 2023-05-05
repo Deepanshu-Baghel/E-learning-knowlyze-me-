@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import './Login.css';
+import Register from './Register';
 
 function Login() {
   const [email, setEmail] = useState('');
@@ -8,6 +9,10 @@ function Login() {
   const handleSubmit = event => {
     event.preventDefault();
     console.log(`Email: ${email}, Password: ${password}`);
+  };
+
+  const handleRegister = () => {
+    window.location.href = '/Register';
   };
 
   return (
@@ -22,13 +27,10 @@ function Login() {
           <label htmlFor="password">Password</label>
           <input type="password" id="password" value={password} onChange={e => setPassword(e.target.value)} />
         </div>
-        <div className='doit'>
-          
-<a href="./Register">
-  <button type="submit">Register</button>
-</a>
-        <button type="submit2">Login</button>
-        </div>
+        <div className="doit">
+  <button type="submit" onClick={handleRegister}>Register</button>
+  <button type="submit_login">Login</button>
+</div>
       </form>
     </div>
   );
