@@ -1,8 +1,13 @@
 .register {
     max-width: 600px;
-    margin: 0 auto;
-    padding: 5rem;
+    margin: 150px auto ;
+    padding: 40px;
+    padding-bottom: 80px;
+    height: 360px;
     text-align: center;
+    border: 5px solid #ddd;
+    border-radius: 42px;
+    background-color: #fff;
   }
   
   .register h2 {
@@ -41,6 +46,7 @@
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    margin-left: 50px;
   }
   
   .register button:hover {

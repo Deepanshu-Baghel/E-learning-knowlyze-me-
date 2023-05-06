@@ -37,13 +37,13 @@ function Register() {
           value={password}
           onChange={(event) => setPassword(event.target.value)}
         />
-        <label htmlFor="confirmPassword">Confirm Password:</label>
+        {/* <label htmlFor="confirmPassword">Confirm Password:</label>
         <input
           type="password"
           id="confirmPassword"
           value={confirmPassword}
           onChange={(event) => setConfirmPassword(event.target.value)}
-        />
+        /> */}
         <button type="submit">Register</button>
       </form>
     </div>
