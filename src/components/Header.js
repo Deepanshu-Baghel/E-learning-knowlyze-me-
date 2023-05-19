@@ -7,7 +7,7 @@ function Header() {
     <header>
       <nav>
         <div className="container">
-          <Link to="/" className="logo">E-Learning</Link>
+          <Link to="/" className="logo">Knowlyze Me</Link>
           <ul className="nav-links">
             <li><Link to="/">Home</Link></li>
             <li><Link to="/about">About</Link></li>
