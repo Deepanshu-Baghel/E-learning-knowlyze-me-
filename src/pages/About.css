@@ -14,9 +14,18 @@
   transition: all 0.3s ease;
   margin-left: 30px;
 }
+.pick{
+  padding-top: 8px;
+  width: 85px;
+}
+.picn{
+  padding-top: 65px;
+  width: 130px;
+}
 .pic{
-  padding-top: 13px;
+  padding-top: 55px;
   width: 163px;
+  padding-left: 50px;
 }
 .picu{
   width: 100px;
