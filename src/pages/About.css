@@ -13,12 +13,18 @@
   font-family: "Poppins", sans-serif;
   transition: all 0.3s ease;
   margin-left: 30px;
- 
- 
 }
-
+.pic{
+  padding-top: 13px;
+  width: 163px;
+}
+.picu{
+  width: 100px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+}
 .card-client:hover {
-  transform: translateY(-10px);
+  transform: translateY(-10px);  
 }
 
 .user-picture {
@@ -124,4 +130,53 @@
  margin-top: 120px; 
  font-family: sans-serif;
  font-weight: 200;
+}
+
+
+
+
+
+
+
+
+.cardbychance {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 20px;
+}
+
+.cardbychance h1 {
+  font-size: 32px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.cardbychance p {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.cardbychance h2 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.cardbychance ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+.cardbychance ul li {
+  margin-bottom: 15px;
+}
+
+.cardbychance ul li strong {
+  font-weight: bold;
+  color: #333;
 }

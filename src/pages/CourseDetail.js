@@ -23,6 +23,7 @@ function CourseDetail(props) {
         <div className="author">By <span className="name">John</span> 2 days ago</div>
       </div>
     </div>
+    {/* invnsilne is impo */}
 
     <div className="cardd">
       <div className="cardd-image"></div>

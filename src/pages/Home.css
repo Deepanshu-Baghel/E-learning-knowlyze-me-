@@ -58,7 +58,9 @@
   background-color: #0062cc;
 }
 
-
+.noob{
+  color: white;
+}
 .card {
   width: 250px;
   height: 364px;

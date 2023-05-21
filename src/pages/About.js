@@ -108,10 +108,10 @@ function About() {
 <div className="card-client">
   <div className="user-picture">
     <svg viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
-      <path
-        d="M224 256c70.7 0 128-57.31 128-128s-57.3-128-128-128C153.3 0 96 57.31 96 128S153.3 256 224 256zM274.7 304H173.3C77.61 304 0 381.6 0 477.3c0 19.14 15.52 34.67 34.66 34.67h378.7C432.5 512 448 496.5 448 477.3C448 381.6 370.4 304 274.7 304z">
-      </path>
+      
     </svg>
+    <img className='pic' src="https://images.hindustantimes.com/img/2021/11/03/550x309/Doge_meme_dog_birthday_1635925455510_1635925462309.PNG" alt="User Picture" />
+
   </div>
   <p className="name-client"> Jhon Doe
     <span>CEO of WritBook
@@ -157,10 +157,9 @@ function About() {
 <div className="card-client">
   <div className="user-picture">
     <svg viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
-      <path
-        d="M224 256c70.7 0 128-57.31 128-128s-57.3-128-128-128C153.3 0 96 57.31 96 128S153.3 256 224 256zM274.7 304H173.3C77.61 304 0 381.6 0 477.3c0 19.14 15.52 34.67 34.66 34.67h378.7C432.5 512 448 496.5 448 477.3C448 381.6 370.4 304 274.7 304z">
-      </path>
     </svg>
+    <img className='picu' src="
+https://img-9gag-fun.9cache.com/photo/aVebrPK_460s.jpg" alt="User Picture" />
   </div>
   <p className="name-client"> Jhon Doe
     <span>CEO of WritBook
@@ -205,156 +204,47 @@ function About() {
 
 </div>
 <div>
-<h1>test</h1>
-  <p>lorem rc\pages\About.js
-  Line 23:5:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
-  Line 31:5:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
-  Line 39:5:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
-  Line 47:5:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
-  Line 72:5:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
-  Line 80:5:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
-  Line 88:5:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
-  Line 96:5:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
-  Line 121:5:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
-  Line 129:5:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
-  Line 137:5:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
-  Line 145:5:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
-  Line 170:5:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
-  Line 178:5:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
-  Line 186:5:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
-  Line 194:5:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+<div className="cardbychance">
+  <h1>ABOUT US</h1>
+  <div>
+    <p>Welcome to Knowlyze Me, a leading online platform dedicated to providing high-quality education and empowering individuals to reach their full potential. We believe that education is the key to personal and professional growth, and we are committed to making learning accessible, affordable, and engaging for learners worldwide.</p>
 
-src\pages\CourseDetail.js
-  Line 5:11:  'title' is assigned a value but never used        no-unused-vars
-  Line 5:18:  'description' is assigned a value but never used  no-unused-vars
-  Line 5:31:  'instructor' is assigned a value but never used   no-unused-vars
-  Line 5:43:  'duration' is assigned a value but never used     no-unused-vars
-  Line 5:53:  'level' is assigned a value but never used        no-unused-vars
-  Line 5:60:  'price' is assigned a value but never used        no-unused-vars
+    <h2>Our Team:</h2>
 
-Compiled with warnings.
+    <ul>
+      <li>
+        <strong>Deepanshu Baghel</strong> (Developer and Team Head, Code Master): With a passion for technology and a deep understanding of web development, Deepanshu leads our talented team in creating a seamless and user-friendly e-learning platform. His expertise ensures that our website is optimized for an exceptional learning experience. With a keen eye for detail and a commitment to innovation, Deepanshu continuously explores new technologies and implements cutting-edge solutions to enhance our platform's functionality and performance. Under his leadership, we strive to deliver an unparalleled educational journey to our learners.
+      </li>
 
-Warning
-(66:5) autoprefixer: end value has mixed support, consider using flex-end instead
+      <li>
+        <strong>Ishan Gagan</strong> (Ideas): Ishan brings a creative flair to our team, constantly brainstorming innovative ideas to enhance our platform's features and user engagement. His visionary thinking and outside-the-box ideas contribute to the continuous improvement of our e-learning experience.
+      </li>
 
-Search for the keywords to learn more about each warning.
-To ignore, add // eslint-disable-next-line to the line before.
+      <li>
+        <strong>Anshikaa</strong> (PPT and Code Support): Anshikaa's expertise lies in creating visually appealing and informative presentations that captivate learners. She also provides valuable support in coding, ensuring that our platform not only looks great but also functions flawlessly.
+      </li>
 
-WARNING in ./src/pages/Login.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/pages/Login.css)
-Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
-Warning
+      <li>
+        <strong>Nandini</strong> (Content): Nandini is our dedicated content creator, responsible for curating and developing comprehensive educational materials. With her expertise in research and writing, she ensures that our courses and resources are accurate, up-to-date, and aligned with the latest industry standards.
+      </li>
 
-(66:5) autoprefixer: end value has mixed support, consider using flex-end instead
+      <li>
+      <strong>Subodh</strong> (Support and Collaboration): Subodh is a friendly and helpful member of our team who provides support to all team members. He has a great ability to handle various tasks and ensures smooth collaboration within the team. His friendly nature creates a positive and inclusive working environment for everyone.
+      </li>
+      
+      <li>
+        <strong>Manchit</strong> (Word Document and Ideas): Manchit is a valuable member of our team, contributing to the creation of well-structured and organized content in word documents. His ideas and suggestions further enrich our content development process, making it easier for learners to grasp and retain information.
+      </li>
+    </ul>
 
-webpack compiled with 1 warning
+    <p>At Tutak, we are driven by a shared passion for education and a commitment to helping learners succeed. Our team works tirelessly to provide a seamless and enriching learning experience for our users. We understand that everyone has unique learning needs, and that's why we offer a diverse range of courses and resources spanning various subjects and disciplines.</p>
 
-Compiled with warnings.
+    <p>Whether you are a student looking to enhance your academic performance, a professional aiming to acquire new skills, or an individual seeking personal development, we have the resources and courses tailored to meet your goals. Our user-friendly platform, combined with the expertise of our dedicated team, ensures that you receive an exceptional learning experience from the moment you join us.</p>
 
-Warning
-(66:5) autoprefixer: end value has mixed support, consider using flex-end instead
+    <p>Join us on this educational journey and unlock your full potential with Tutak. Together, we can make education accessible, affordable, and transformative for learners worldwide.</p>
+  </div>
+</div>
 
-Search for the keywords to learn more about each warning.
-To ignore, add // eslint-disable-next-line to the line before.
-
-WARNING in ./src/pages/Login.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/pages/Login.css)
-Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
-Warning
-
-(66:5) autoprefixer: end value has mixed support, consider using flex-end instead
-
-webpack compiled with 1 warning
-Compiled with warnings.
-
-Warning
-(66:5) autoprefixer: end value has mixed support, consider using flex-end instead
-
-Compiled with warnings.
-
-Warning
-(66:5) autoprefixer: end value has mixed support, consider using flex-end instead
-
-Compiled with warnings.
-
-Warning
-(66:5) autoprefixer: end value has mixed support, consider using flex-end instead
-
-Compiled with warnings.
-
-Warning
-(66:5) autoprefixer: end value has mixed support, consider using flex-end instead
-
-Compiled with warnings.
-
-Warning
-(66:5) autoprefixer: end value has mixed support, consider using flex-end instead
-
-Compiled with warnings.
-
-Warning
-(66:5) autoprefixer: end value has mixed support, consider using flex-end instead
-
-Compiled with warnings.
-
-Warning
-(66:5) autoprefixer: end value has mixed support, consider using flex-end instead
-
-Search for the keywords to learn more about each warning.
-To ignore, add // eslint-disable-next-line to the line before.
-
-WARNING in ./src/pages/Login.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/pages/Login.css)
-Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
-Warning
-
-(66:5) autoprefixer: end value has mixed support, consider using flex-end instead
-
-Compiled with warnings.
-
-Warning
-(66:5) autoprefixer: end value has mixed support, consider using flex-end instead
-
-Compiled with warnings.
-
-Warning
-(66:5) autoprefixer: end value has mixed support, consider using flex-end instead
-
-Compiled with warnings.
-
-Warning
-(66:5) autoprefixer: end value has mixed support, consider using flex-end instead
-
-Compiled with warnings.
-
-Warning
-(66:5) autoprefixer: end value has mixed support, consider using flex-end instead
-
-[eslint]
-src\pages\About.js
-  Line 23:5:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid  
-  Line 31:5:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid  
-  Line 39:5:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid  
-  Line 47:5:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid  
-  Line 72:5:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid  
-  Line 80:5:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid  
-  Line 88:5:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid  
-  Line 96:5:   The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid  
-  Line 121:5:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid  
-  Line 129:5:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid  
-  Line 137:5:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid  
-  Line 145:5:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid  
-  Line 170:5:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid  
-  Line 178:5:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid  
-  Line 186:5:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid  
-  Line 194:5:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid  
-
-Search for the keywords to learn more about each warning.
-To ignore, add // eslint-disable-next-line to the line before.
-
-WARNING in ./src/pages/Login.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/pages/Login.css)
-Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
-Warning
-
-(66:5) autoprefixer: end value has mixed support, consider using flex-end instead
-</p>
 </div>
 </>
   );
