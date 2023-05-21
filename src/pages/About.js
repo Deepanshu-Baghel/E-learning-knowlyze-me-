@@ -14,9 +14,9 @@ function About() {
     </svg>
     <img className='pick' src="https://cdn-149.anonfiles.com/S3W0J7s5zb/2659a11e-1684690612/profile+photo.jpg" alt="User Picture" />
   </div>
-  <p className="name-client"> Jhon Doe
-    <span>CEO of WritBook
-    </span>
+  <p className="name-client"> Deepanshu Baghel
+    <span>Developer and Team Head</span>
+    
   </p>
   <div className="social-media">
     <a href="#">
@@ -63,8 +63,8 @@ function About() {
     <img className='picn' src="https://cdn-145.anonfiles.com/u4T5Jfscz0/99635bf9-1684690275/nandu+pp.png" alt="User Picture" />
 
   </div>
-  <p className="name-client"> Jhon Doe
-    <span>CEO of WritBook
+  <p className="name-client"> Nandini yadav
+    <span>content creator
     </span>
   </p>
   <div className="social-media">
@@ -112,8 +112,8 @@ function About() {
     <img className='pic' src="https://cdn-149.anonfiles.com/K0L4J9sczd/cade64de-1684689226/Screenshot+2023-05-21+223309.png" alt="User Picture" />
 
   </div>
-  <p className="name-client"> Jhon Doe
-    <span>CEO of WritBook
+  <p className="name-client"> Subodh singh
+    <span>Support and Collaboration
     </span>
   </p>
   <div className="social-media">
@@ -160,7 +160,7 @@ function About() {
     <img className='picu' src="https://cdn-147.anonfiles.com/39G4J2s9z4/9b2ebdaf-1684688769/anshika+pp.png" alt="User Picture" />
   </div>
   <p className="name-client"> Anshikaa
-    <span>CEO of WritBook
+    <span>PPT and Code Support
     </span>
   </p>
   <div className="social-media">
