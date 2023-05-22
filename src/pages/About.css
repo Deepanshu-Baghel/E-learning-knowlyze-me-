@@ -14,9 +14,21 @@
   transition: all 0.3s ease;
   margin-left: 30px;
 }
+.secondrow
+{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 6px;  
+}
 .pick{
   padding-top: 8px;
   width: 85px;
+}
+.picq{
+  padding-top: 85px;
+  width: 180px;
+  padding-right: 63px;
 }
 .picn{
   padding-top: 65px;
