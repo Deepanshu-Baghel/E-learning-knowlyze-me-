@@ -331,7 +331,7 @@ function About() {
       </li>
     </ul>
 
-    <p>At Tutak, we are driven by a shared passion for education and a commitment to helping learners succeed. Our team works tirelessly to provide a seamless and enriching learning experience for our users. We understand that everyone has unique learning needs, and that's why we offer a diverse range of courses and resources spanning various subjects and disciplines.</p>
+    <p> we are driven by a shared passion for education and a commitment to helping learners succeed. Our team works tirelessly to provide a seamless and enriching learning experience for our users. We understand that everyone has unique learning needs, and that's why we offer a diverse range of courses and resources spanning various subjects and disciplines.</p>
 
     <p>Whether you are a student looking to enhance your academic performance, a professional aiming to acquire new skills, or an individual seeking personal development, we have the resources and courses tailored to meet your goals. Our user-friendly platform, combined with the expertise of our dedicated team, ensures that you receive an exceptional learning experience from the moment you join us.</p>
 
